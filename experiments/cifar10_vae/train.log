@@ -1,0 +1,179 @@
+2020-11-11 04:23:45,604:INFO: Loading the datasets...
+2020-11-11 04:23:47,403:INFO: - done.
+2020-11-11 04:23:48,947:INFO: Starting training for 50 epoch(s)
+2020-11-11 04:23:48,947:INFO: Epoch 1/50
+2020-11-11 04:24:07,754:INFO: - Train metrics: loss: -927.006
+2020-11-11 04:24:10,538:INFO: - Eval metrics : loss: -80178.755
+2020-11-11 04:24:10,657:INFO: - Found new best testing loss
+2020-11-11 04:24:10,672:INFO: Epoch 2/50
+2020-11-11 04:24:29,209:INFO: - Train metrics: loss: -1571.311
+2020-11-11 04:24:31,987:INFO: - Eval metrics : loss: -90211.654
+2020-11-11 04:24:32,132:INFO: - Found new best testing loss
+2020-11-11 04:24:32,134:INFO: Epoch 3/50
+2020-11-11 04:24:50,846:INFO: - Train metrics: loss: -1744.677
+2020-11-11 04:24:53,821:INFO: - Eval metrics : loss: -98536.333
+2020-11-11 04:24:53,922:INFO: - Found new best testing loss
+2020-11-11 04:24:53,925:INFO: Epoch 4/50
+2020-11-11 04:25:12,480:INFO: - Train metrics: loss: -1787.188
+2020-11-11 04:25:15,252:INFO: - Eval metrics : loss: -106665.664
+2020-11-11 04:25:15,384:INFO: - Found new best testing loss
+2020-11-11 04:25:15,385:INFO: Epoch 5/50
+2020-11-11 04:25:33,883:INFO: - Train metrics: loss: -1872.265
+2020-11-11 04:25:36,650:INFO: - Eval metrics : loss: -109464.171
+2020-11-11 04:25:36,804:INFO: - Found new best testing loss
+2020-11-11 04:25:36,808:INFO: Epoch 6/50
+2020-11-11 04:25:55,233:INFO: - Train metrics: loss: -1871.507
+2020-11-11 04:25:58,004:INFO: - Eval metrics : loss: -114749.273
+2020-11-11 04:25:58,130:INFO: - Found new best testing loss
+2020-11-11 04:25:58,131:INFO: Epoch 7/50
+2020-11-11 04:26:16,736:INFO: - Train metrics: loss: -1879.724
+2020-11-11 04:26:19,448:INFO: - Eval metrics : loss: -116949.056
+2020-11-11 04:26:19,568:INFO: - Found new best testing loss
+2020-11-11 04:26:19,569:INFO: Epoch 8/50
+2020-11-11 04:26:38,473:INFO: - Train metrics: loss: -1922.727
+2020-11-11 04:26:41,194:INFO: - Eval metrics : loss: -120253.430
+2020-11-11 04:26:41,321:INFO: - Found new best testing loss
+2020-11-11 04:26:41,322:INFO: Epoch 9/50
+2020-11-11 04:26:59,920:INFO: - Train metrics: loss: -1972.451
+2020-11-11 04:27:02,648:INFO: - Eval metrics : loss: -125517.323
+2020-11-11 04:27:02,788:INFO: - Found new best testing loss
+2020-11-11 04:27:02,791:INFO: Epoch 10/50
+2020-11-11 04:27:21,135:INFO: - Train metrics: loss: -2010.882
+2020-11-11 04:27:23,850:INFO: - Eval metrics : loss: -124296.294
+2020-11-11 04:27:23,967:INFO: Epoch 11/50
+2020-11-11 04:27:42,329:INFO: - Train metrics: loss: -1970.172
+2020-11-11 04:27:45,045:INFO: - Eval metrics : loss: -127784.954
+2020-11-11 04:27:45,210:INFO: - Found new best testing loss
+2020-11-11 04:27:45,211:INFO: Epoch 12/50
+2020-11-11 04:28:03,596:INFO: - Train metrics: loss: -1985.014
+2020-11-11 04:28:06,310:INFO: - Eval metrics : loss: -128880.119
+2020-11-11 04:28:06,463:INFO: - Found new best testing loss
+2020-11-11 04:28:06,464:INFO: Epoch 13/50
+2020-11-11 04:28:24,801:INFO: - Train metrics: loss: -2028.931
+2020-11-11 04:28:27,578:INFO: - Eval metrics : loss: -132312.672
+2020-11-11 04:28:27,716:INFO: - Found new best testing loss
+2020-11-11 04:28:27,720:INFO: Epoch 14/50
+2020-11-11 04:28:46,027:INFO: - Train metrics: loss: -1945.497
+2020-11-11 04:28:48,749:INFO: - Eval metrics : loss: -133379.287
+2020-11-11 04:28:48,892:INFO: - Found new best testing loss
+2020-11-11 04:28:48,893:INFO: Epoch 15/50
+2020-11-11 04:29:07,237:INFO: - Train metrics: loss: -2040.750
+2020-11-11 04:29:09,953:INFO: - Eval metrics : loss: -132677.811
+2020-11-11 04:29:10,051:INFO: Epoch 16/50
+2020-11-11 04:29:28,504:INFO: - Train metrics: loss: -2043.631
+2020-11-11 04:29:31,224:INFO: - Eval metrics : loss: -131349.694
+2020-11-11 04:29:31,335:INFO: Epoch 17/50
+2020-11-11 04:29:49,644:INFO: - Train metrics: loss: -2005.016
+2020-11-11 04:29:52,363:INFO: - Eval metrics : loss: -137223.565
+2020-11-11 04:29:52,482:INFO: - Found new best testing loss
+2020-11-11 04:29:52,484:INFO: Epoch 18/50
+2020-11-11 04:30:10,747:INFO: - Train metrics: loss: -2060.183
+2020-11-11 04:30:13,466:INFO: - Eval metrics : loss: -134579.078
+2020-11-11 04:30:13,570:INFO: Epoch 19/50
+2020-11-11 04:30:31,779:INFO: - Train metrics: loss: -2010.766
+2020-11-11 04:30:34,495:INFO: - Eval metrics : loss: -136727.804
+2020-11-11 04:30:34,628:INFO: Epoch 20/50
+2020-11-11 04:30:52,859:INFO: - Train metrics: loss: -2087.197
+2020-11-11 04:30:55,579:INFO: - Eval metrics : loss: -136998.893
+2020-11-11 04:30:55,671:INFO: Epoch 21/50
+2020-11-11 04:31:13,733:INFO: - Train metrics: loss: -2044.031
+2020-11-11 04:31:16,454:INFO: - Eval metrics : loss: -136491.975
+2020-11-11 04:31:16,568:INFO: Epoch 22/50
+2020-11-11 04:31:34,622:INFO: - Train metrics: loss: -2091.201
+2020-11-11 04:31:37,338:INFO: - Eval metrics : loss: -139471.926
+2020-11-11 04:31:37,505:INFO: - Found new best testing loss
+2020-11-11 04:31:37,506:INFO: Epoch 23/50
+2020-11-11 04:31:55,567:INFO: - Train metrics: loss: -2030.060
+2020-11-11 04:31:58,282:INFO: - Eval metrics : loss: -139643.439
+2020-11-11 04:31:58,434:INFO: - Found new best testing loss
+2020-11-11 04:31:58,436:INFO: Epoch 24/50
+2020-11-11 04:32:16,516:INFO: - Train metrics: loss: -2065.294
+2020-11-11 04:32:19,233:INFO: - Eval metrics : loss: -140836.104
+2020-11-11 04:32:19,360:INFO: - Found new best testing loss
+2020-11-11 04:32:19,363:INFO: Epoch 25/50
+2020-11-11 04:32:37,459:INFO: - Train metrics: loss: -2078.722
+2020-11-11 04:32:40,172:INFO: - Eval metrics : loss: -138450.544
+2020-11-11 04:32:40,264:INFO: Epoch 26/50
+2020-11-11 04:32:58,318:INFO: - Train metrics: loss: -2069.775
+2020-11-11 04:33:01,033:INFO: - Eval metrics : loss: -140882.287
+2020-11-11 04:33:01,179:INFO: - Found new best testing loss
+2020-11-11 04:33:01,182:INFO: Epoch 27/50
+2020-11-11 04:33:19,382:INFO: - Train metrics: loss: -2060.515
+2020-11-11 04:33:22,098:INFO: - Eval metrics : loss: -142796.268
+2020-11-11 04:33:22,240:INFO: - Found new best testing loss
+2020-11-11 04:33:22,243:INFO: Epoch 28/50
+2020-11-11 04:33:40,408:INFO: - Train metrics: loss: -2018.141
+2020-11-11 04:33:43,130:INFO: - Eval metrics : loss: -142581.242
+2020-11-11 04:33:43,221:INFO: Epoch 29/50
+2020-11-11 04:34:01,258:INFO: - Train metrics: loss: -2016.558
+2020-11-11 04:34:03,975:INFO: - Eval metrics : loss: -142589.422
+2020-11-11 04:34:04,077:INFO: Epoch 30/50
+2020-11-11 04:34:22,138:INFO: - Train metrics: loss: -2126.387
+2020-11-11 04:34:24,856:INFO: - Eval metrics : loss: -142550.049
+2020-11-11 04:34:24,958:INFO: Epoch 31/50
+2020-11-11 04:34:43,019:INFO: - Train metrics: loss: -2159.756
+2020-11-11 04:34:45,738:INFO: - Eval metrics : loss: -146188.742
+2020-11-11 04:34:45,857:INFO: - Found new best testing loss
+2020-11-11 04:34:45,858:INFO: Epoch 32/50
+2020-11-11 04:35:03,917:INFO: - Train metrics: loss: -2053.039
+2020-11-11 04:35:06,631:INFO: - Eval metrics : loss: -142473.806
+2020-11-11 04:35:06,736:INFO: Epoch 33/50
+2020-11-11 04:35:24,808:INFO: - Train metrics: loss: -2157.055
+2020-11-11 04:35:27,528:INFO: - Eval metrics : loss: -143587.096
+2020-11-11 04:35:27,646:INFO: Epoch 34/50
+2020-11-11 04:35:45,717:INFO: - Train metrics: loss: -2176.803
+2020-11-11 04:35:48,431:INFO: - Eval metrics : loss: -146890.138
+2020-11-11 04:35:48,543:INFO: - Found new best testing loss
+2020-11-11 04:35:48,544:INFO: Epoch 35/50
+2020-11-11 04:36:06,642:INFO: - Train metrics: loss: -2054.349
+2020-11-11 04:36:09,355:INFO: - Eval metrics : loss: -145099.619
+2020-11-11 04:36:09,449:INFO: Epoch 36/50
+2020-11-11 04:36:27,466:INFO: - Train metrics: loss: -2103.932
+2020-11-11 04:36:30,183:INFO: - Eval metrics : loss: -143385.433
+2020-11-11 04:36:30,298:INFO: Epoch 37/50
+2020-11-11 04:36:48,333:INFO: - Train metrics: loss: -2122.540
+2020-11-11 04:36:51,047:INFO: - Eval metrics : loss: -145731.037
+2020-11-11 04:36:51,143:INFO: Epoch 38/50
+2020-11-11 04:37:09,241:INFO: - Train metrics: loss: -2107.353
+2020-11-11 04:37:11,958:INFO: - Eval metrics : loss: -144507.769
+2020-11-11 04:37:12,039:INFO: Epoch 39/50
+2020-11-11 04:37:30,282:INFO: - Train metrics: loss: -2107.626
+2020-11-11 04:37:33,000:INFO: - Eval metrics : loss: -146609.888
+2020-11-11 04:37:33,077:INFO: Epoch 40/50
+2020-11-11 04:37:51,198:INFO: - Train metrics: loss: -2066.060
+2020-11-11 04:37:53,916:INFO: - Eval metrics : loss: -146875.004
+2020-11-11 04:37:54,053:INFO: Epoch 41/50
+2020-11-11 04:38:12,139:INFO: - Train metrics: loss: -2089.682
+2020-11-11 04:38:14,857:INFO: - Eval metrics : loss: -144187.617
+2020-11-11 04:38:14,963:INFO: Epoch 42/50
+2020-11-11 04:38:33,071:INFO: - Train metrics: loss: -2124.851
+2020-11-11 04:38:35,809:INFO: - Eval metrics : loss: -147528.340
+2020-11-11 04:38:35,956:INFO: - Found new best testing loss
+2020-11-11 04:38:35,960:INFO: Epoch 43/50
+2020-11-11 04:38:54,175:INFO: - Train metrics: loss: -2074.088
+2020-11-11 04:38:56,892:INFO: - Eval metrics : loss: -148715.909
+2020-11-11 04:38:57,056:INFO: - Found new best testing loss
+2020-11-11 04:38:57,059:INFO: Epoch 44/50
+2020-11-11 04:39:15,130:INFO: - Train metrics: loss: -2155.176
+2020-11-11 04:39:17,844:INFO: - Eval metrics : loss: -149868.734
+2020-11-11 04:39:17,973:INFO: - Found new best testing loss
+2020-11-11 04:39:17,973:INFO: Epoch 45/50
+2020-11-11 04:39:36,076:INFO: - Train metrics: loss: -2151.363
+2020-11-11 04:39:38,792:INFO: - Eval metrics : loss: -148937.937
+2020-11-11 04:39:38,889:INFO: Epoch 46/50
+2020-11-11 04:39:56,949:INFO: - Train metrics: loss: -2124.589
+2020-11-11 04:39:59,668:INFO: - Eval metrics : loss: -148852.806
+2020-11-11 04:39:59,773:INFO: Epoch 47/50
+2020-11-11 04:40:17,819:INFO: - Train metrics: loss: -2131.031
+2020-11-11 04:40:20,535:INFO: - Eval metrics : loss: -150065.138
+2020-11-11 04:40:20,653:INFO: - Found new best testing loss
+2020-11-11 04:40:20,653:INFO: Epoch 48/50
+2020-11-11 04:40:38,693:INFO: - Train metrics: loss: -2201.529
+2020-11-11 04:40:41,406:INFO: - Eval metrics : loss: -149786.502
+2020-11-11 04:40:41,500:INFO: Epoch 49/50
+2020-11-11 04:40:59,557:INFO: - Train metrics: loss: -2170.748
+2020-11-11 04:41:02,265:INFO: - Eval metrics : loss: -148436.453
+2020-11-11 04:41:02,356:INFO: Epoch 50/50
+2020-11-11 04:41:20,427:INFO: - Train metrics: loss: -2149.933
+2020-11-11 04:41:23,143:INFO: - Eval metrics : loss: -152356.875
+2020-11-11 04:41:23,278:INFO: - Found new best testing loss

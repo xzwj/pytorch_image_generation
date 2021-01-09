@@ -1,0 +1,20 @@
+{
+    "lr": 1e-3,
+    "batch_size": 128,
+    "num_epochs": 50,
+    
+    "save_summary_steps": 100,
+    "num_workers": 4,
+
+    "optim": "adam",
+    "momentum": 0.9,
+
+    "input_channel": 3,
+    "input_h": 32,
+    "input_w": 32,
+
+    "input_dim": 3072,
+    "latent_dim": 20,
+    "encoder_layers": [400, "R", 20],
+    "decoder_layers": [400, "R", 3072, "S"]
+}
